@@ -90,11 +90,13 @@ Add screenshots of the major user flows here once they are captured.
 
 ### Plan Route
 
-![Plan Route screenshot](docs/screenshots/plan-route.png)
+<img width="1546" height="868" alt="image" src="https://github.com/user-attachments/assets/7b13bf71-e54b-4961-8abc-0dc353d938bf" />
+
 
 ### Route Optimization Result
 
-![Optimization result screenshot](docs/screenshots/optimization-result.png)
+<img width="1012" height="486" alt="image" src="https://github.com/user-attachments/assets/5cfb1203-e4f3-4847-bbf1-aad9642038bd" />
+
 
 ## Setup
 
