@@ -86,7 +86,7 @@ Add screenshots of the major user flows here once they are captured.
 
 ### Dashboard
 
-![Dashboard screenshot](docs/screenshots/dashboard.png)
+<img width="1695" height="902" alt="image" src="https://github.com/user-attachments/assets/d560f7b6-d9bd-4bd6-8af2-c036ffe83256" />
 
 ### Plan Route
 
